@@ -21,6 +21,8 @@ namespace test_01_playW
             UploadAndDownload uad = new UploadAndDownload(Page);
             DynamicProperties dp = new DynamicProperties(Page);
 
+            Login login = new Login(Page);
+
             // forms
             form.FillForms("https://demoqa.com/", "abc", "xyz", "abcxyz@gmail.com", "1234512345", "12 apr 2013", "Maths", "karachi pakistan");
             
@@ -51,7 +53,8 @@ namespace test_01_playW
             // dynamic properties
             dp.DynamicProperties_click();
 
-
+            // login
+            login.LoginPerform("abcxyz", "abcxyz123", "abc", "xyz", "abcxyz", "Abcxyz@12");
         }
     }
 }

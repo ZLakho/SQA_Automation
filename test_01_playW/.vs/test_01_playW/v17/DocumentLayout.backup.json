@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{DF602C1C-A5D2-4CF5-98B7-DFB778D02C20}|test_01_playW.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF602C1C-A5D2-4CF5-98B7-DFB778D02C20}|test_01_playW.csproj|c:\\users\\engr zainab lakho\\source\\repos\\test_01_playw\\elements\\dynamicproperties\\dynamicproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF602C1C-A5D2-4CF5-98B7-DFB778D02C20}|test_01_playW.csproj|solutionrelative:elements\\dynamicproperties\\dynamicproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF602C1C-A5D2-4CF5-98B7-DFB778D02C20}|test_01_playW.csproj|c:\\users\\engr zainab lakho\\source\\repos\\test_01_playw\\bookstoreapplication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF602C1C-A5D2-4CF5-98B7-DFB778D02C20}|test_01_playW.csproj|solutionrelative:bookstoreapplication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DynamicProperties.cs",
-              "DocumentMoniker": "C:\\Users\\Engr Zainab Lakho\\source\\repos\\test_01_playW\\Elements\\DynamicProperties\\DynamicProperties.cs",
-              "RelativeDocumentMoniker": "Elements\\DynamicProperties\\DynamicProperties.cs",
-              "ToolTip": "C:\\Users\\Engr Zainab Lakho\\source\\repos\\test_01_playW\\Elements\\DynamicProperties\\DynamicProperties.cs",
-              "RelativeToolTip": "Elements\\DynamicProperties\\DynamicProperties.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Engr Zainab Lakho\\source\\repos\\test_01_playW\\BookStoreApplication\\Login.cs",
+              "RelativeDocumentMoniker": "BookStoreApplication\\Login.cs",
+              "ToolTip": "C:\\Users\\Engr Zainab Lakho\\source\\repos\\test_01_playW\\BookStoreApplication\\Login.cs",
+              "RelativeToolTip": "BookStoreApplication\\Login.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T15:20:12.974Z",
+              "WhenOpened": "2024-11-17T18:11:22.444Z",
               "EditorCaption": ""
             },
             {
@@ -39,9 +39,9 @@
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\Engr Zainab Lakho\\source\\repos\\test_01_playW\\UnitTest1.cs",
               "RelativeDocumentMoniker": "UnitTest1.cs",
-              "ToolTip": "C:\\Users\\Engr Zainab Lakho\\source\\repos\\test_01_playW\\UnitTest1.cs*",
-              "RelativeToolTip": "UnitTest1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Engr Zainab Lakho\\source\\repos\\test_01_playW\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T17:57:26.395Z",
               "EditorCaption": ""
